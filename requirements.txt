@@ -1,0 +1,8 @@
+numpy
+pandas
+streamlit
+pytesseract
+Pillow
+google-generativeai
+faiss-cpu
+sentence-transformers
